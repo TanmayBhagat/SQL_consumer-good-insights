@@ -41,4 +41,6 @@ The database comprises six key tables:
 
 [View the requests and there  solution queries with output](https://github.com/TanmayBhagat/SQL_consumer-good-insights/blob/fb4d5e1865c886f2197f8e6949f6f57722acd446/TANMAY%20ad-hoc-requests.pdf)
 
+---
 
+### 📂 My Portfolio: [Tanmay Bhagat's Portfolio](https://codebasics.io/portfolio/Tanmay-Bhagat)
