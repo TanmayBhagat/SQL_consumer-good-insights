@@ -39,6 +39,6 @@ The database comprises six key tables:
 - Practical knowledge of real-world data analysis and reporting using MySQL.
 
 
- Check the `solutions.pdf` for detailed answers to the queries.
+[View the requests and there  solution queries with output](https://github.com/TanmayBhagat/SQL_consumer-good-insights/blob/fb4d5e1865c886f2197f8e6949f6f57722acd446/TANMAY%20ad-hoc-requests.pdf)
 
 
